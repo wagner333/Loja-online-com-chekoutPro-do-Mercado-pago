@@ -1,0 +1,17 @@
+{
+    "name": "wagner/php",
+    "autoload": {
+        "psr-4": {
+            "Wagner\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wagner333",
+            "email": "wwfome6@gmail.com"
+        }
+    ],
+    "require": {
+        "mercadopago/dx-php": "3.8.0"
+    }
+}
