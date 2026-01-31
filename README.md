@@ -25,6 +25,7 @@ obss: esse texto foi passado no gpt pra resolver alguns erros de portugues e adi
 
 <img width="1366" height="606" alt="2026-01-31-102428_1366x606_scrot" src="https://github.com/user-attachments/assets/243bba27-1602-4506-9ab5-658b2db58974" />
 
+<img width="769" height="632" alt="2026-01-31-102523_769x632_scrot" src="https://github.com/user-attachments/assets/863de30b-31c4-4a7e-81c4-d449ec07de9f" />
 
 
 
