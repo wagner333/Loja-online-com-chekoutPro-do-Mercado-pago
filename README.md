@@ -28,4 +28,13 @@ obss: esse texto foi passado no gpt pra resolver alguns erros de portugues e adi
 <img width="769" height="632" alt="2026-01-31-102523_769x632_scrot" src="https://github.com/user-attachments/assets/863de30b-31c4-4a7e-81c4-d449ec07de9f" />
 
 
+# chekout
+
+<img width="1366" height="617" alt="2026-01-31-102827_1366x617_scrot" src="https://github.com/user-attachments/assets/05425cbe-ec6d-4282-8439-34768cd95bc2" />
+
+<img width="1364" height="608" alt="2026-01-31-102926_1364x608_scrot" src="https://github.com/user-attachments/assets/f8c4897e-ec92-4303-9f31-c2d0de288ce9" />
+
+
+
+
 
