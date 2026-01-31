@@ -14,3 +14,7 @@ O <strong>sistema de rotas</strong> é bem simples, usando <strong>include das v
 Claro, criei algumas estruturas, mas minha falta de <strong>documentação</strong> faz eu acabar <strong>esquecendo como elas funcionam</strong>.
 
 Enfim, vou colocar algumas <strong>imagens do projeto</strong> abaixo, mas creio que ele pode <strong>melhorar muito</strong> depois. Agora é só eu ter <strong>menos preguiça</strong> de trabalhar nele
+
+obss: esse texto foi passado no gpt pra resolver alguns erros de portugues e adicionar a tag html STRONG eu normalmente evito usar isso por que tira a essencia do que eu escrevi mas enfim fotos abaixo:
+
+
