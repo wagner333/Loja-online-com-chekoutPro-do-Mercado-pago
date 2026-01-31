@@ -36,5 +36,11 @@ obss: esse texto foi passado no gpt pra resolver alguns erros de portugues e adi
 
 
 
+<img width="1355" height="609" alt="2026-01-31-103130_1355x609_scrot" src="https://github.com/user-attachments/assets/82f3dda6-764b-41d6-a848-397e2171a602" />
+
+
+<img width="1366" height="628" alt="2026-01-31-103324_1366x628_scrot" src="https://github.com/user-attachments/assets/c9709677-125f-40f2-82ce-0012e62ce273" />
+
+
 
 
